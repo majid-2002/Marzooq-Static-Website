@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Red Hat Display', sans-serif;
-    overflow-x: hid;
     
 }
 
@@ -126,9 +125,6 @@ span{
     font-size: 20px;
   }
   
-  .navbardiv{
-    
-  }
 
 }
 
