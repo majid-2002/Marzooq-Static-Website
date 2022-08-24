@@ -14,6 +14,13 @@ html,body {
 body{
   overflow-x: hidden;
   width: 100%;
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+	-webkit-tap-highlight-color: transparent;
 }
 
 
@@ -598,7 +605,6 @@ footer .end{
     height: 55vh;
     display: block;
     padding-top: 60px;
-    touch-action: none;
   }
 
   .img-part img{
