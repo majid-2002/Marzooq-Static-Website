@@ -595,9 +595,10 @@ footer .end{
     height: 100vh;
   }
   footer{
-    height: 70vh;
+    height: 55vh;
     display: block;
     padding-top: 60px;
+    touch-action: none;
   }
 
   .img-part img{
